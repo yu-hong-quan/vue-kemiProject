@@ -7,6 +7,11 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
+    "axios": "^0.18.0",
+    "element-ui": "^2.4.11",
+    "font-awesome": "^4.7.0",
+    "register-service-worker": "^1.5.2",
+    "reset-css": "^4.0.1",
     "vue": "^2.5.17",
     "vue-router": "^3.0.1",
     "vuex": "^3.0.1"
